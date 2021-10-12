@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomLottoApp</string>
+
+    <string name="add_btn_text">번호 추가하기</string>
+    <string name="reset_btn_text">초기화하기</string>
+    <string name="run_btn_text">자동 생성 시작</string>
+</resources>
