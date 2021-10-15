@@ -1,6 +1,5 @@
 package com.example.randomlottoapp
 
-import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -9,8 +8,6 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
-import androidx.core.view.size
-import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
 
